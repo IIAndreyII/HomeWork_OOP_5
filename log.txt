@@ -1,0 +1,124 @@
+февр. 03, 2023 1:19:35 AM Main main
+INFO: Start program
+февр. 03, 2023 1:19:36 AM Menu mainMenu
+INFO: Start menu
+февр. 03, 2023 1:19:42 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:19:42 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:19:42 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:19:42 AM Addresbook Addresbook
+INFO: В список контактов добавлены новые люди
+февр. 03, 2023 1:19:42 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:19:42 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:19:42 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:19:42 AM Main main
+INFO: Stop program
+февр. 03, 2023 1:19:50 AM Main main
+INFO: Start program
+февр. 03, 2023 1:19:50 AM Menu mainMenu
+INFO: Start menu
+февр. 03, 2023 1:19:54 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:19:54 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:19:54 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:19:54 AM Addresbook Addresbook
+INFO: В список контактов добавлены новые люди
+февр. 03, 2023 1:19:54 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:19:54 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:19:54 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:19:54 AM Addresbook Addresbook
+INFO: В список контактов добавлены новые люди
+февр. 03, 2023 1:19:54 AM Filemanager ExportFile
+INFO: Запись данных в файл
+февр. 03, 2023 1:19:54 AM Main main
+INFO: Stop program
+февр. 03, 2023 1:20:01 AM Main main
+INFO: Start program
+февр. 03, 2023 1:20:01 AM Menu mainMenu
+INFO: Start menu
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Addresbook Addresbook
+INFO: В список контактов добавлены новые люди
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Addresbook Addresbook
+INFO: В список контактов добавлены новые люди
+февр. 03, 2023 1:20:04 AM Filemanager ImportFile
+INFO: Выгрузка данных из файла
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:04 AM Main main
+INFO: Stop program
+февр. 03, 2023 1:20:35 AM Main main
+INFO: Start program
+февр. 03, 2023 1:20:35 AM Menu mainMenu
+INFO: Start menu
+февр. 03, 2023 1:20:39 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:39 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:39 AM Phonebook <init>
+INFO: Был создан новый контакт
+февр. 03, 2023 1:20:39 AM Addresbook Addresbook
+INFO: В список контактов добавлены новые люди
+февр. 03, 2023 1:20:39 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:39 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:39 AM Addresbook showAddresBook
+INFO: Телефонная книга напечатана в консоли
+февр. 03, 2023 1:20:39 AM Main main
+INFO: Stop program
